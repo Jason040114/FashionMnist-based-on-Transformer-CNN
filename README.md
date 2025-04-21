@@ -1,3 +1,4 @@
+# FashionMnist-based-on-Transformer-CNN  
 ## 📖 Project Introduction
 
 Fashion-MNIST is a dataset of Zalando's article images, consisting of 60,000 training examples and 10,000 test examples. Each example is a 28x28 grayscale image associated with one of 10 fashion categories.
@@ -143,4 +144,4 @@ Options:
   --lr=<float>             Learning rate [default: 1e-3]
   --pre_train=<bool>        Use pre-trained weights [default: True]
 ```
-# FashionMnist-based-on-Transformer-CNN
+
